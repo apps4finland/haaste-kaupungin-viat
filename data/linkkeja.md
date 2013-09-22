@@ -31,4 +31,3 @@ Hyödyllisiä linkkejä
 ====================
 
 * Helsinki Region Infoshare: http://www.hri.fi/fi/
-* [Hare](http://www.hare.vn.fi/), eduskunnan ja ministeriöiden julkinen hankerekisteri 
