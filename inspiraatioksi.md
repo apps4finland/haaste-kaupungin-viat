@@ -1,5 +1,5 @@
 Haasteen ratkaisujen on luotava kaupunkilaislähtöinen idea- ja ehdotusvaraston, josta
-kaupungin päättäjät voivat ammentaa informaatiota sekä välittömien että tulevaisuuden
+kaupungin päättäjät voivat ammentaa informaatiota sekä välittömien huoltotoimenpiteiden että tulevaisuuden
 kunnossapitoprojektien pohjaksi.
 
 Inspiraatioksi:
