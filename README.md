@@ -8,7 +8,9 @@ Kaupunkiympäristössä on jatkuvasti jotain korjattavaa. Hyvinkään suunnitell
 alunperin on tarkoitettu kun ympäristöolosuhteet muuttuvat. Kaupungilla liikkuvat ihmiset huomaavat monasti puutteet,
 viat ja toimattomuudet nopeasti, ja voisivat havainnoillaan tehostaa ylläpidosta vastuullisten organisaatioiden
 toimintaa. Haastekysymys kuuluu: kuinka kaupunkilaiset voisivat vaivattomasti jakaa havaintonsa ja tietonsa
-korjattavista epäkohdista kaupungin organisaatioiden kanssa?
+korjattavista epäkohdista kaupungin organisaatioiden kanssa? Haasteen ratkaisujen on luotava kaupunkilaislähtöinen
+idea ja toimenpide-ehdotusvarasto, jota kaupungin organisaatio voi hyödyntää sekä välittömien että tulevaisuuden
+kunnossapitoprojektien ja -toimenpiteiden pohjana.
 
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
