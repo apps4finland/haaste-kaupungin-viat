@@ -1,4 +1,4 @@
-Haasteen ratkaisujen toivotaan luovan kaupunkilaislähtöisen idea- ja ehdotusvaraston, josta
+Haasteen ratkaisujen on luotava kaupunkilaislähtöinen idea- ja ehdotusvaraston, josta
 kaupungin päättäjät voivat ammentaa informaatiota sekä välittömien että tulevaisuuden
 kunnossapitoprojektien pohjaksi.
 
