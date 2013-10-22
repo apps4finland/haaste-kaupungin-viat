@@ -1,6 +1,6 @@
 ## Tässä kansiossa: kaikki tarpeellinen kaupungin parempaa kunnossapitoa ja vikaraportointia varten
 
-Tämä on Apps4Finland-kilpailun _Kunnossapitoa ja korjaamista kommunikoiden_ -haastetta varten koottu tukipaketti. 
+Tämä on Apps4Finland-kilpailun _Kansalaispalaute_ -haastetta varten koottu tukipaketti. 
 
 ## Haaste sinulle
 
